@@ -40,3 +40,5 @@ In today's modern organizations, employees face challenges in managing work-rela
 This project offers automation of email categorization based on context analysis, providing improved accuracy compared to explicit categorization systems. It can be implemented in organizations with high volumes of daily email conversations.
 
 Overall, the project aims to deploy a deep learning model for recommending priority emails based on conversation history and email context with enhanced accuracy. Additionally, an automated model will handle commonly asked queries, offering efficiency and productivity benefits.
+
+Watch the final working demo [here](https://youtu.be/ozgARSI-Mv0)
